@@ -1,0 +1,5 @@
+*
+!.gitignore
+!decode_function.py
+!hexinton_table_decoder.py
+!README.md
